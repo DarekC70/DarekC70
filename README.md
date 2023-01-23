@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="https://photos.google.com/photo/AF1QipNC5V81ySXGlTHZyBCfx_boFUsE-0lyLFNfxw5_">
+</picture>
 <!--
 **DarekC70/DarekC70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
