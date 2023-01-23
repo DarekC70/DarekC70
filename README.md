@@ -1,7 +1,7 @@
 ### Hi there 👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://photos.google.com/photo/AF1QipNgHnEtaiCt8vE1Ll_EkwcoX1SEM1w0QtCI5Ova)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://photos.google.com/photo/AF1QipMkSHQLZrTwYYxaEh2Ot--f3tWQgY0INawywPBq)">
  <img alt="YOUR-ALT-TEXT" src="https://photos.google.com/photo/AF1QipNC5V81ySXGlTHZyBCfx_boFUsE-0lyLFNfxw5_">
 </picture>
 <!--
