@@ -1,11 +1,10 @@
 ### <h3>***Hello, my name is Dariusz, welcome to my portfolio*** </h3> 👋
 
-    </p>
 
 
 <p caption align="center"><b>______________________________________________________________________________________________________________________________________</b></p>
     <p>
-    <h4 caption align="center">I am a geophysicist, I worked at the Oil and Gas Institute in Krakow. I have been living in England for three years.<br>
+    <h4 caption align="center">I am a geophysicist. I have been living in England for three years.<br>
         Thanks to my life experience, I have learned to analyze situations, make decisions and plan development.<br>
         Currently, my life aspiration is to start a career in programming, thanks to the HyperionDev bootcamp, <br>I hope to start realizing this goal.
         The most inspiring for me is the ability to analyze problems and create solutions. </h4>
