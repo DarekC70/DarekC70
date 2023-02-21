@@ -1,5 +1,10 @@
 ### <h4> Hi there </h4>👋
-#hyperion logo
+
+
+<h3>Links:<br></h3>
+<p>HyperionDev Software Engineering Bootcamp Profile: <a href="https://www.hyperiondev.com/portfolio/108594">www.hyperiondev.com/portfolio</a></p>
+<p>Linkedin Profile: <a href="https://www.linkedin.com/in/dariusz-cebulski">linkedin profile</a></p>
+
 <picture>
  hyperion logo
  <source media="(prefers-color-scheme: dark)" srcset="https://photos.google.com/photo/AF1QipNgHnEtaiCt8vE1Ll_EkwcoX1SEM1w0QtCI5Ova">
