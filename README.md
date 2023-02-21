@@ -4,7 +4,7 @@
 
 <p caption align="center"><b>_____________________________________________________________________________________________________________________________________________</b></p>
     <p>
-    <h4 caption align="center">I am a geophysicist. Thanks to my life experience, I have learned to analyze situations, make decisions and plan development.<br>
+    <h4 caption align="center">I am a geophysicist, aspiring Software Engineer. Thanks to my life experience, I have learned to analyze situations, make decisions and plan development.<br>
         Currently, my life aspiration is to start a career in programming, thanks to the HyperionDev bootcamp, <br>I hope to start realizing this goal.
         The most inspiring for me is the ability to analyze problems and create solutions. </h4>
     </p>
@@ -53,18 +53,3 @@
  🔭 <h4>Currently, I am focusing on developing my skills gained during the bootcump. <br/>
     My goal is to find a job/apprenticeship/internship in programming (Python/SQL/HTML)</h4>
  
-
-<!--
-**DarekC70/DarekC70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 <h3>I’m currently working on .improv my softwer programing skills</h3>
-- 🌱 I’m currently  Boot
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
