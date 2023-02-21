@@ -24,10 +24,9 @@
 🔭 <h4> In my portfolio I have included projects made as part of my boocump:<br/>
     <a href="https://github.com/DarekC70/finalCapstone">https://github.com/DarekC70/finalCapstone</a></h4>
 <br/>
-    <h4>***Currently, I am focusing on developing my skills gained during the bootcump. <br/>
-    My goal is to find a job/apprenticeship/internship in programming (Python/SQL/HTML)***</h4>
+    <h4>Currently, I am focusing on developing my skills gained during the bootcump. <br/>
+    My goal is to find a job/apprenticeship/internship in programming (Python/SQL/HTML)</h4>
    
-
 <h3>Links:<br></h3>
 <p>HyperionDev Software Engineering Bootcamp Profile: <a href="https://www.hyperiondev.com/portfolio/108594">www.hyperiondev.com/portfolio</a></p>
 <p>Linkedin Profile: <a href="https://www.linkedin.com/in/dariusz-cebulski">linkedin profile</a></p>
