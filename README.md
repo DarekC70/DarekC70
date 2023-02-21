@@ -9,11 +9,11 @@
         The most inspiring for me is the ability to analyze problems and create solutions. </h4>
     </p>
     <p caption align="center"><b>______________________________________________________________________________________________________________________________________________________________</b></p>
-🌱 <h4> I’m currently  finishing the HyperionDev Skills BootcampI have completed tasks that allowed me to learn:<br/><h4/> 
+🌱 <h4> I’m currently  finishing the HyperionDev Skills Bootcamp, I have completed tasks that allowed me to learn:<br/><h4/> 
 <h4>
     <p>
         <ul>
-        <li>Software development Python and SQL</li>
+        <li>Software development Python and SQL, SQLite</li>
         <li>Utilising data science to develop data-driven web applications</li>
         <li>Natural language processing NLP</li>
         <li>Object -oriented programming OOP</li>
@@ -21,7 +21,7 @@
         <li>Source version control, Backend web development</li>
             </ul>
 </h4>
-
+🔭 <h4> W
 
     
 
