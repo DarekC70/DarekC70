@@ -5,6 +5,7 @@
 <p>HyperionDev Software Engineering Bootcamp Profile: <a href="https://www.hyperiondev.com/portfolio/108594">www.hyperiondev.com/portfolio</a></p>
 <p>Linkedin Profile: <a href="https://www.linkedin.com/in/dariusz-cebulski">linkedin profile</a></p>
 
+- 🔭 <h3>I’m currently working on .improv my softwer programing skills</h3><br/>
 <h3> ⚡ I'm interesing in geology <br/>Co-author of book publication:</h3>
     <p>
         Dariusz Cebulski, Andrzej Urbaniec, Paweł Łukaszewski - Possibilities of adaptation of the selected research methods to determine the properties and structural features of salt rocks. <br>Monograph no 217 – Oil and Gas Institute - National  Research Institute, 2017.
