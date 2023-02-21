@@ -1,4 +1,6 @@
 ### <h4> Hi there </h4>👋
+ 🔭 <h3>I’m currently working on .improv my softwer programing skills</h3>
+ 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://photos.google.com/photo/AF1QipNgHnEtaiCt8vE1Ll_EkwcoX1SEM1w0QtCI5Ova">
  <source media="(prefers-color-scheme: light)" srcset="https://photos.google.com/photo/AF1QipMkSHQLZrTwYYxaEh2Ot--f3tWQgY0INawywPBq">
