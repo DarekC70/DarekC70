@@ -1,4 +1,4 @@
-### <h4> Hi there </h4>👋
+### <h3>***Hello, my name is Dariusz, welcome to my portfolio*** </h3>👋
 
 
 <h3>Links:<br></h3>
