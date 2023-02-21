@@ -21,7 +21,7 @@
         <li>Source version control, Backend web development</li>
             </ul>
 </h4>
-🔭 <h4> W
+🔭 <h4> In my portfolio I have included projects made as part of my boocump: <a href="https://github.com?DarekC70/finalCapstone">https://github.com?DarekC70/finalCapstone</a></h4>
 
     
 
