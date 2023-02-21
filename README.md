@@ -4,6 +4,7 @@
 <h3>Links:<br></h3>
 <p>HyperionDev Software Engineering Bootcamp Profile: <a href="https://www.hyperiondev.com/portfolio/108594">www.hyperiondev.com/portfolio</a></p>
 <p>Linkedin Profile: <a href="https://www.linkedin.com/in/dariusz-cebulski">linkedin profile</a></p>
+🌱 <h4> I’m currently  finishing the HyperionDev Skills Bootcamp<br/><h4/>
 
 - 🔭 <h3>I’m currently working on .improv my softwer programing skills</h3><br/>
 <h3> ⚡ I'm interesing in geology <br/>Co-author of book publication:</h3>
