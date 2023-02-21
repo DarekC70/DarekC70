@@ -2,14 +2,14 @@
 
 
 
-<p caption align="center"><b>______________________________________________________________________________________________________________________________________</b></p>
+<p caption align="center"><b>_____________________________________________________________________________________________________________________________________________</b></p>
     <p>
     <h4 caption align="center">I am a geophysicist. I have been living in England for three years.<br>
         Thanks to my life experience, I have learned to analyze situations, make decisions and plan development.<br>
         Currently, my life aspiration is to start a career in programming, thanks to the HyperionDev bootcamp, <br>I hope to start realizing this goal.
         The most inspiring for me is the ability to analyze problems and create solutions. </h4>
     </p>
-    <p caption align="center"><b>___________________________________________________________________________________________________________________________________________________________________</b></p>
+    <p caption align="center"><b>______________________________________________________________________________________________________________________________________________________________</b></p>
 
 <h3>Links:<br></h3>
 <p>HyperionDev Software Engineering Bootcamp Profile: <a href="https://www.hyperiondev.com/portfolio/108594">www.hyperiondev.com/portfolio</a></p>
